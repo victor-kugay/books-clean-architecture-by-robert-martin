@@ -8,7 +8,7 @@
 
 ## ✍ Description
 
-This repository includes valuable quotes from "Clean Architecture: A Craftsman's Guide to Software Structure and Design" book by Robert C. Martin. 
+This repository includes the most valuable quotes (in my mind) from "Clean Architecture: A Craftsman's Guide to Software Structure and Design" book by Robert C. Martin. 
 
 All rights are reserved by Robert C. Martin and publisher "Piter".
 
