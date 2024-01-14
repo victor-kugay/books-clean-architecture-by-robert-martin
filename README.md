@@ -2,7 +2,7 @@
 
 <div>
   <a>
-    <img src="https://img.shields.io/badge/-Clean_Architecture-black?logo=known&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" />
+    <img src="https://img.shields.io/badge/-Clean_Architecture-black?&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" />
   </a>
 </div>
 
